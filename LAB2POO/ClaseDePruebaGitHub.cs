@@ -9,7 +9,9 @@ namespace LAB2POO
     public class ClaseDePruebaGitHub
     {
 
+        //Se agregó un comentario
 
+        int numero = 0;
 
     }
 }
