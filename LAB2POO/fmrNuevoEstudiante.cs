@@ -34,6 +34,7 @@ namespace LAB2POO
            
         }
 
+        //Se ingresó este comentario
         private void UpdateCombox()//muestra las categorias para seleccionar
         {
             comboBoxCarrera.DataSource = _listaCarreras;
