@@ -46,7 +46,8 @@ namespace LAB2POO
                 new Estudiante(507,"Rosenda "," Guzman"," 01010101-8","70006007","Santo Domingo G.",1),
                 new Estudiante(508,"Lucas "," Castro"," 01010101-9","70006008","Acajutla",2),
                 new Estudiante(509,"Maria "," Gomez"," 01010110-1","70006009","Armenia",1),
-              
+                new Estudiante(510,"José "," Hernandez"," 01010111-1","70006010","Armenia",1),
+
             };
             
         }
