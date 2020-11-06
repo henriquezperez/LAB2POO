@@ -19,7 +19,9 @@ namespace LAB2POO
         public int CarreraId { get; set; }
 
         //constructores
-
+       
+        //comentario en constructor
+       
         public Estudiante()
         {
 

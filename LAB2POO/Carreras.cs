@@ -14,7 +14,7 @@ namespace LAB2POO
         public string Nombre { get; set; }
 
         //constructores
-
+        //
         public Carreras()
         {
 
