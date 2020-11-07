@@ -24,7 +24,7 @@ namespace LAB2POO
        
         public Estudiante()
         {
-
+            //hola
         }
 
         public Estudiante(string nombre, string apellido, string dui, string telefono, string direccion, int carreraId)
